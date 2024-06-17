@@ -1,6 +1,6 @@
 # Laço For com C-Sharp
 
-Repositório dedicado a alguns exemplos do laço "For" com C-Sharp
+Repositório dedicado a alguns exemplos do laço "For" com C-Sharp.
 
 ![C-Sharp](https://github.com/GuilhermeSK2/Desafio-01-.NET/assets/139295562/e6a3fcc6-d28e-41f1-af95-37434076b77d)
 
